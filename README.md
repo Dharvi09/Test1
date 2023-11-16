@@ -7,7 +7,7 @@
 Vicious Vault
 </h1>
 Welcome to the Vicious Vault repository! This repository is dedicated to helping developers and designers test and visualize the Vicious theme, a dark mode theme, in Visual Studio Code (VSCode).
-<br><br>
+<br><br><br>
 <div  align="center">
 
 [![Changelog](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=%24.version&style=flat&logo=github&logoColor=%23FBFCFC&label=changelog&labelColor=%2308090E&color=%23F1C981)](https://github.com/zaheralmajed/vicious-vault/blob/main/CHANGELOG.md)
@@ -16,7 +16,6 @@ Welcome to the Vicious Vault repository! This repository is dedicated to helping
 [![license](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=%24.license&style=flat&logo=github&logoColor=%23FBFCFC&label=license&labelColor=%2308090E&color=%23BCF181)](https://github.com/zaheralmajed/vicious-vault/blob/main/LICENSE)
 
 </div>
-
 
 
 <p align="center">
