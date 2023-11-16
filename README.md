@@ -2,11 +2,11 @@
 <p align="center">
 <img width="120" height="120" src="assets/logo.png" alt="Vicious Logo">
 </p>
-<br>
 
 <h1 align="center">
 Vicious Vault
 </h1>
+Welcome to the Vicious Vault repository! This repository is dedicated to helping developers and designers test and visualize the Vicious theme, a dark mode theme, in Visual Studio Code (VSCode).
 
 <div  align="center">
 
@@ -18,7 +18,6 @@ Vicious Vault
 </div>
 
 
-Welcome to the Vicious Vault repository! This repository is dedicated to helping developers and designers test and visualize the Vicious theme, a dark mode theme, in Visual Studio Code (VSCode).
 
 <p align="center">
 <img  src="assets/screenshot.png" alt="Vicious Screenshot">
