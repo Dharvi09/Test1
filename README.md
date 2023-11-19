@@ -17,7 +17,6 @@ Welcome to the Vicious Vault repository! This repository is dedicated to helping
 
 </div>
 
-
 <p align="center">
 <img  src="assets/screenshot.png" alt="Vicious Screenshot">
 </p>
@@ -57,3 +56,13 @@ Feel free to explore and experiment with these code files in your Visual Studio 
 I encourage contributions to the Vicious Vault repository. If you have new code files or want to improve existing ones, please feel free to submit pull requests. Together, I can enhance the collection and provide developers and designers with a valuable resource for testing and refining their dark mode coding experiences.
 
 Make your code shine in the Vicious theme!
+
+# Support
+
+Your support is immensely valued!
+If you enjoy my work and would like to show your appreciation, there are a few ways you can contribute.
+Consider buying me a coffee to help keep this project alive and thriving. With enough support, I hope to become a full-time open-source developer, dedicating more time and effort to creating awesome themes and applications for everyone to enjoy.
+
+<a href='https://ko-fi.com/B0B0RB60R' target='_blank'><img height='56' style='border:0px;height:56px;' src='assets/donate.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+Thank you in advance for your love and support! ☀️
