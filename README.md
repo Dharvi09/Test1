@@ -59,13 +59,13 @@ Make your code shine in the Vicious theme!
 
 # Support
 
-Your support is immensely valued!<br>
 If you enjoy my work and would like to show your appreciation, there are a few ways you can contribute.
 Consider buying me a coffee to help keep this project alive and thriving. With enough support, I hope to become a full-time open-source developer, dedicating more time and effort to creating awesome themes and applications for everyone to enjoy.
 
 <p align="center">
 <a href='https://ko-fi.com/B0B0RB60R' target='_blank'><img height='56' style='border:0px;height:56px;' src='assets/donate.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <br>
+Your support is immensely valued!<br>
 Thank you in advance for your love and support!
 
 </p>
