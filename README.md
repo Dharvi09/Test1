@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img width="120" height="120" src="assets/logo.png" alt="Vicious Logo">
+<img width="120" height="120" src="assets/logo.svg?sanitize=true" alt="Vicious Logo">
 </p>
 
 <h1 align="center">
@@ -11,8 +11,8 @@ Welcome to the Vicious Vault repository! This repository is dedicated to helping
 <div  align="center">
 
 [![Changelog](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=%24.version&style=flat&logo=github&logoColor=%23FBFCFC&label=changelog&labelColor=%2308090E&color=%23F1C981)](https://github.com/zaheralmajed/vicious-vault/blob/main/CHANGELOG.md)
-[![Release Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=%24.releasedDate&style=flat&logo=github&logoColor=%23FBFCFC&label=release%20date&labelColor=%2308090E&color=%23F19A81)](https://github.com/zaheralmajed/vicious-vault/releases/tag/1.0.1)
-[![Release](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=%24.version&style=flat&logo=github&logoColor=%23FBFCFC&label=version&labelColor=%2308090E&color=%238BE3EB)](https://github.com/zaheralmajed/vicious-vault/releases/tag/1.0.1)
+[![Release Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=%24.releasedDate&style=flat&logo=github&logoColor=%23FBFCFC&label=release%20date&labelColor=%2308090E&color=%23F19A81)](https://github.com/zaheralmajed/vicious-vault/releases/tag/1.0.2)
+[![Release](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=%24.version&style=flat&logo=github&logoColor=%23FBFCFC&label=version&labelColor=%2308090E&color=%238BE3EB)](https://github.com/zaheralmajed/vicious-vault/releases/tag/1.0.2)
 [![license](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=%24.license&style=flat&logo=github&logoColor=%23FBFCFC&label=license&labelColor=%2308090E&color=%23BCF181)](https://github.com/zaheralmajed/vicious-vault/blob/main/LICENSE)
 
 </div>
@@ -63,7 +63,7 @@ If you enjoy my work and would like to show your appreciation, there are a few w
 Consider buying me a coffee to help keep this project alive and thriving. With enough support, I hope to become a full-time open-source developer, dedicating more time and effort to creating awesome themes and applications for everyone to enjoy.
 
 <p align="center">
-<a href='https://ko-fi.com/B0B0RB60R' target='_blank'><img height='56' style='border:0px;height:56px;' src='assets/donate.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/B0B0RB60R' target='_blank'><img height='40' style='border:0px;height:40px;' src='assets/donate.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <br>
 Your support is immensely valued!<br>
 Thank you in advance for your love and support!
