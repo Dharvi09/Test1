@@ -10,10 +10,16 @@ Welcome to the Vicious Vault repository! This repository is dedicated to helping
 <br><br><br>
 <div  align="center">
 
-[![Changelog](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=%24.version&style=flat&logo=github&logoColor=%23FBFCFC&label=changelog&labelColor=%2308090E&color=%23F1C981)](https://github.com/zaheralmajed/vicious-vault/blob/main/CHANGELOG.md)
-[![Release Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=%24.releasedDate&style=flat&logo=github&logoColor=%23FBFCFC&label=release%20date&labelColor=%2308090E&color=%23F19A81)](https://github.com/zaheralmajed/vicious-vault/releases/tag/1.0.2)
-[![Release](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=%24.version&style=flat&logo=github&logoColor=%23FBFCFC&label=version&labelColor=%2308090E&color=%238BE3EB)](https://github.com/zaheralmajed/vicious-vault/releases/tag/1.0.2)
-[![license](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=%24.license&style=flat&logo=github&logoColor=%23FBFCFC&label=license&labelColor=%2308090E&color=%23BCF181)](https://github.com/zaheralmajed/vicious-vault/blob/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/zaheralmajed/vicious-vault?logo=gitbook&style=for-the-badge&labelColor=%2308090E&logoColor=%23fbfcfc&color=%23F18196&label=Issues)](https://github.com/zaheralmajed/vicious-vault/issues)
+[![Stars](https://img.shields.io/github/stars/zaheralmajed/vicious-vault?logo=github&style=for-the-badge&labelColor=%2308090E&color=%23AB8BEB&label=Stars)](https://github.com/zaheralmajed/vicious-vault/stargazers)
+[![Changelog](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=version&style=for-the-badge&logo=github&logoColor=%23FBFCFC&label=changelog&labelColor=%2308090E&color=%23F1C981)](https://github.com/zaheralmajed/vicious-vault/blob/master/CHANGELOG.md)
+
+</div>
+<div  align="center">
+
+[![Release Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=releasedDate&style=for-the-badge&logo=github&logoColor=%23FBFCFC&label=release%20date&labelColor=%2308090E&color=%23F19A81)](https://github.com/zaheralmajed/vicious-vault/releases/tag/1.0.3)
+[![Release](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=%24.version&style=for-the-badge&logo=github&logoColor=%23FBFCFC&label=version&labelColor=%2308090E&color=%238BE3EB)](https://github.com/zaheralmajed/vicious-vault/releases/tag/1.0.3)
+[![license](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzaheralmajed%2Fvicious-vault%2Fmain%2Fpackage.json&query=license&style=for-the-badge&logo=github&logoColor=%23FBFCFC&label=license&labelColor=%2308090E&color=%23BCF181)](https://github.com/zaheralmajed/vicious-vault/blob/main/LICENSE)
 
 </div>
 
