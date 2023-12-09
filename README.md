@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img width="120" height="120" src="assets/logo.svg?sanitize=true" alt="Vicious Logo">
+<img width="120" height="120" src="https://raw.githubusercontent.com/zaheralmajed/vicious-vault/main/assets/logo.png" alt="Vicious Logo">
 </p>
 
 <h1 align="center">
